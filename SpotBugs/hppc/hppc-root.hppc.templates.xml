@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.4.2" sequence="0" timestamp="1691447748778" analysisTimestamp="1691447748005" release="">
+  <Project projectName="hppc-root[hppc-root.hppc.templates]">
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\AbstractKTypeCollection.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\comparators\KTypeComparator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\comparators\KTypeVTypeComparator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\cursors\KTypeCursor.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\cursors\KTypeVTypeCursor.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeArrayDeque$DescendingValueIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeArrayDeque$ValueIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeArrayDeque.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeArrayList$ValueIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeArrayList.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeBufferVisualizer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeCollection.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeDeque.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeHashSet$EntryIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeHashSet.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeIndexedContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeLookupContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypePgmIndex$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypePgmIndex$KTypeBuilder.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypePgmIndex$KTypeEmptyPgmIndex$KTypeEmptyIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypePgmIndex$KTypeEmptyPgmIndex.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypePgmIndex$RangeIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypePgmIndex.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeSet.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeStack.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeAssociativeContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap$EntryIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap$KeysContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap$KeysIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap$ValuesContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap$ValuesIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeHashMap.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeIdentityHashMap.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeMap.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap$EntryIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap$KeysContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap$KeysIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap$ValuesContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap$ValuesIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeVTypeWormMap.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeWormSet$EntryIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\KTypeWormSet.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\predicates\KTypePredicate.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\predicates\KTypeVTypePredicate.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\procedures\KTypeProcedure.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\procedures\KTypeVTypeProcedure.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap$EntryIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap$KeysContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap$KeysIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap$ValuesContainer.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap$ValuesIterator.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\templates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMap.class</Jar>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc-template-intrinsics/build/classes/java/main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/build/classes/java/main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/build/classes/java/templates</AuxClasspathEntry>
+    <SrcDir>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/src/main/templates</SrcDir>
+  </Project>
+  <BugInstance type="INT_BAD_COMPARISON_WITH_NONNEGATIVE_VALUE" priority="2" rank="7" abbrev="INT" category="CORRECTNESS" instanceHash="651d0367b6455d976c5bab159a15147e" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Bad comparison of nonnegative value with negative constant or zero</ShortMessage>
+    <LongMessage>Bad comparison of nonnegative value with 0 in com.carrotsearch.hppc.KTypeHashSet.indexExists(int)</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeHashSet" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+        <Message>In KTypeHashSet.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeHashSet</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeHashSet" name="indexExists" signature="(I)Z" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet" start="658" end="662" startBytecode="0" endBytecode="144" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java"/>
+      <Message>In method com.carrotsearch.hppc.KTypeHashSet.indexExists(int)</Message>
+    </Method>
+    <Int value="0" role="INT_VALUE">
+      <Message>Value 0</Message>
+    </Int>
+    <LocalVariable name="index" register="1" pc="11" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named index</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet" primary="true" start="658" end="658" startBytecode="11" endBytecode="11" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+      <Message>At KTypeHashSet.java:[line 658]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet" primary="true" start="658" end="658" startBytecode="11" endBytecode="11" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+      <Message>At KTypeHashSet.java:[line 658]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" instanceHash="1b92b72e615ceb8526c1ca9616c60541" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="374">
+    <ShortMessage>May expose internal representation by incorporating reference to mutable object</ShortMessage>
+    <LongMessage>new com.carrotsearch.hppc.KTypeHashSet$EntryIterator(KTypeHashSet) may expose internal representation by storing an externally mutable object into KTypeHashSet$EntryIterator.this$0</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+        <Message>In KTypeHashSet.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeHashSet$EntryIterator</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" name="&lt;init&gt;" signature="(Lcom/carrotsearch/hppc/KTypeHashSet;)V" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" start="501" end="506" startBytecode="0" endBytecode="143" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java"/>
+      <Message>In method new com.carrotsearch.hppc.KTypeHashSet$EntryIterator(KTypeHashSet)</Message>
+    </Method>
+    <Field classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" name="this$0" signature="Lcom/carrotsearch/hppc/KTypeHashSet;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+        <Message>In KTypeHashSet.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.KTypeHashSet$EntryIterator.this$0</Message>
+    </Field>
+    <LocalVariable name="this$0" register="1" pc="2" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named this$0</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" primary="true" start="501" end="501" startBytecode="2" endBytecode="2" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+      <Message>At KTypeHashSet.java:[line 501]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" primary="true" start="501" end="501" startBytecode="2" endBytecode="2" sourcefile="KTypeHashSet.java" sourcepath="com/carrotsearch/hppc/KTypeHashSet.java" relSourcepath="com\carrotsearch\hppc\KTypeHashSet.java">
+      <Message>At KTypeHashSet.java:[line 501]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" instanceHash="6e17194b2efaaa689ab32a463fdf3392" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="374">
+    <ShortMessage>May expose internal representation by incorporating reference to mutable object</ShortMessage>
+    <LongMessage>com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder.setSortedKeys(KTypeArrayList) may expose internal representation by storing an externally mutable object into KTypePgmIndex$KTypeBuilder.keys</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" sourcefile="KTypePgmIndex.java" sourcepath="com/carrotsearch/hppc/KTypePgmIndex.java" relSourcepath="com\carrotsearch\hppc\KTypePgmIndex.java">
+        <Message>In KTypePgmIndex.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" name="setSortedKeys" signature="(Lcom/carrotsearch/hppc/KTypeArrayList;)Lcom/carrotsearch/hppc/KTypePgmIndex$KTypeBuilder;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" start="437" end="438" startBytecode="0" endBytecode="90" sourcefile="KTypePgmIndex.java" sourcepath="com/carrotsearch/hppc/KTypePgmIndex.java" relSourcepath="com\carrotsearch\hppc\KTypePgmIndex.java"/>
+      <Message>In method com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder.setSortedKeys(KTypeArrayList)</Message>
+    </Method>
+    <Field classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" name="keys" signature="Lcom/carrotsearch/hppc/KTypeArrayList;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" sourcefile="KTypePgmIndex.java" sourcepath="com/carrotsearch/hppc/KTypePgmIndex.java" relSourcepath="com\carrotsearch\hppc\KTypePgmIndex.java">
+        <Message>In KTypePgmIndex.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder.keys</Message>
+    </Field>
+    <LocalVariable name="keys" register="1" pc="2" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named keys</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" primary="true" start="437" end="437" startBytecode="2" endBytecode="2" sourcefile="KTypePgmIndex.java" sourcepath="com/carrotsearch/hppc/KTypePgmIndex.java" relSourcepath="com\carrotsearch\hppc\KTypePgmIndex.java">
+      <Message>At KTypePgmIndex.java:[line 437]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" primary="true" start="437" end="437" startBytecode="2" endBytecode="2" sourcefile="KTypePgmIndex.java" sourcepath="com/carrotsearch/hppc/KTypePgmIndex.java" relSourcepath="com\carrotsearch\hppc\KTypePgmIndex.java">
+      <Message>At KTypePgmIndex.java:[line 437]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="INT_BAD_COMPARISON_WITH_NONNEGATIVE_VALUE" priority="2" rank="7" abbrev="INT" category="CORRECTNESS" instanceHash="957b72de7a73c99cff03d93e180e0e76" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Bad comparison of nonnegative value with negative constant or zero</ShortMessage>
+    <LongMessage>Bad comparison of nonnegative value with 0 in com.carrotsearch.hppc.KTypeVTypeHashMap.indexExists(int)</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeVTypeHashMap" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+        <Message>In KTypeVTypeHashMap.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeVTypeHashMap</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeVTypeHashMap" name="indexExists" signature="(I)Z" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap" start="455" end="459" startBytecode="0" endBytecode="144" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java"/>
+      <Message>In method com.carrotsearch.hppc.KTypeVTypeHashMap.indexExists(int)</Message>
+    </Method>
+    <Int value="0" role="INT_VALUE">
+      <Message>Value 0</Message>
+    </Int>
+    <LocalVariable name="index" register="1" pc="11" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named index</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap" primary="true" start="455" end="455" startBytecode="11" endBytecode="11" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+      <Message>At KTypeVTypeHashMap.java:[line 455]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap" primary="true" start="455" end="455" startBytecode="11" endBytecode="11" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+      <Message>At KTypeVTypeHashMap.java:[line 455]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" instanceHash="8fdc677a015fb75c101743574c6278d5" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="374">
+    <ShortMessage>May expose internal representation by incorporating reference to mutable object</ShortMessage>
+    <LongMessage>new com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer(KTypeVTypeHashMap) may expose internal representation by storing an externally mutable object into KTypeVTypeHashMap$KeysContainer.owner</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+        <Message>In KTypeVTypeHashMap.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" name="&lt;init&gt;" signature="(Lcom/carrotsearch/hppc/KTypeVTypeHashMap;)V" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" start="783" end="785" startBytecode="0" endBytecode="91" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java"/>
+      <Message>In method new com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer(KTypeVTypeHashMap)</Message>
+    </Method>
+    <Field classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" name="owner" signature="Lcom/carrotsearch/hppc/KTypeVTypeHashMap;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+        <Message>In KTypeVTypeHashMap.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer.owner</Message>
+    </Field>
+    <LocalVariable name="?" register="-1" pc="13" role="LOCAL_VARIABLE_UNKNOWN">
+      <Message>Local variable stored in JVM register ?</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" primary="true" start="785" end="785" startBytecode="14" endBytecode="14" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+      <Message>At KTypeVTypeHashMap.java:[line 785]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" primary="true" start="785" end="785" startBytecode="14" endBytecode="14" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+      <Message>At KTypeVTypeHashMap.java:[line 785]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" instanceHash="ee2e8877a22ae37951a49a03faa975aa" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="374">
+    <ShortMessage>May expose internal representation by incorporating reference to mutable object</ShortMessage>
+    <LongMessage>new com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer(KTypeVTypeHashMap) may expose internal representation by storing an externally mutable object into KTypeVTypeHashMap$KeysContainer.this$0</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+        <Message>In KTypeVTypeHashMap.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" name="&lt;init&gt;" signature="(Lcom/carrotsearch/hppc/KTypeVTypeHashMap;)V" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" start="783" end="785" startBytecode="0" endBytecode="91" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java"/>
+      <Message>In method new com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer(KTypeVTypeHashMap)</Message>
+    </Method>
+    <Field classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" name="this$0" signature="Lcom/carrotsearch/hppc/KTypeVTypeHashMap;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+        <Message>In KTypeVTypeHashMap.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer.this$0</Message>
+    </Field>
+    <LocalVariable name="this$0" register="1" pc="2" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named this$0</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" primary="true" start="783" end="783" startBytecode="2" endBytecode="2" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+      <Message>At KTypeVTypeHashMap.java:[line 783]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" primary="true" start="783" end="783" startBytecode="2" endBytecode="2" sourcefile="KTypeVTypeHashMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeHashMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeHashMap.java">
+      <Message>At KTypeVTypeHashMap.java:[line 783]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="QF_QUESTIONABLE_FOR_LOOP" priority="2" rank="17" abbrev="QF" category="STYLE" instanceHash="6b11058f7e9a3cb34fa791c17c528d69" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Complicated, subtle or wrong increment in for-loop</ShortMessage>
+    <LongMessage>Complicated, subtle or wrong increment in for-loop com.carrotsearch.hppc.KTypeVTypeWormMap.toString()</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeVTypeWormMap" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java">
+        <Message>In KTypeVTypeWormMap.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeVTypeWormMap</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeVTypeWormMap" name="toString" signature="()Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap" start="552" end="567" startBytecode="0" endBytecode="257" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java"/>
+      <Message>In method com.carrotsearch.hppc.KTypeVTypeWormMap.toString()</Message>
+    </Method>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap" primary="true" start="555" end="555" startBytecode="24" endBytecode="24" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java">
+      <Message>At KTypeVTypeWormMap.java:[line 555]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="EI_EXPOSE_REP2" priority="2" rank="18" abbrev="EI2" category="MALICIOUS_CODE" instanceHash="64349270aa2f36de8dd93d4c7e5c6f47" instanceOccurrenceNum="0" instanceOccurrenceMax="0" cweid="374">
+    <ShortMessage>May expose internal representation by incorporating reference to mutable object</ShortMessage>
+    <LongMessage>new com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer(KTypeVTypeWormMap) may expose internal representation by storing an externally mutable object into KTypeVTypeWormMap$KeysContainer.this$0</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java">
+        <Message>In KTypeVTypeWormMap.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" name="&lt;init&gt;" signature="(Lcom/carrotsearch/hppc/KTypeVTypeWormMap;)V" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" start="1042" end="1042" startBytecode="0" endBytecode="79" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java"/>
+      <Message>In method new com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer(KTypeVTypeWormMap)</Message>
+    </Method>
+    <Field classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" name="this$0" signature="Lcom/carrotsearch/hppc/KTypeVTypeWormMap;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java">
+        <Message>In KTypeVTypeWormMap.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer.this$0</Message>
+    </Field>
+    <LocalVariable name="this$0" register="1" pc="2" role="LOCAL_VARIABLE_NAMED">
+      <Message>Local variable named this$0</Message>
+    </LocalVariable>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" primary="true" start="1042" end="1042" startBytecode="2" endBytecode="2" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java">
+      <Message>At KTypeVTypeWormMap.java:[line 1042]</Message>
+    </SourceLine>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" primary="true" start="1042" end="1042" startBytecode="2" endBytecode="2" sourcefile="KTypeVTypeWormMap.java" sourcepath="com/carrotsearch/hppc/KTypeVTypeWormMap.java" relSourcepath="com\carrotsearch\hppc\KTypeVTypeWormMap.java">
+      <Message>At KTypeVTypeWormMap.java:[line 1042]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="QF_QUESTIONABLE_FOR_LOOP" priority="2" rank="17" abbrev="QF" category="STYLE" instanceHash="de5c51b93468e687277a0f775b27746f" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Complicated, subtle or wrong increment in for-loop</ShortMessage>
+    <LongMessage>Complicated, subtle or wrong increment in for-loop com.carrotsearch.hppc.KTypeWormSet.toString()</LongMessage>
+    <Class classname="com.carrotsearch.hppc.KTypeWormSet" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeWormSet" sourcefile="KTypeWormSet.java" sourcepath="com/carrotsearch/hppc/KTypeWormSet.java" relSourcepath="com\carrotsearch\hppc\KTypeWormSet.java">
+        <Message>In KTypeWormSet.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.KTypeWormSet</Message>
+    </Class>
+    <Method classname="com.carrotsearch.hppc.KTypeWormSet" name="toString" signature="()Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.KTypeWormSet" start="530" end="543" startBytecode="0" endBytecode="229" sourcefile="KTypeWormSet.java" sourcepath="com/carrotsearch/hppc/KTypeWormSet.java" relSourcepath="com\carrotsearch\hppc\KTypeWormSet.java"/>
+      <Message>In method com.carrotsearch.hppc.KTypeWormSet.toString()</Message>
+    </Method>
+    <SourceLine classname="com.carrotsearch.hppc.KTypeWormSet" primary="true" start="533" end="533" startBytecode="24" endBytecode="24" sourcefile="KTypeWormSet.java" sourcepath="com/carrotsearch/hppc/KTypeWormSet.java" relSourcepath="com\carrotsearch\hppc\KTypeWormSet.java">
+      <Message>At KTypeWormSet.java:[line 533]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugCategory category="MALICIOUS_CODE">
+    <Description>Malicious code vulnerability</Description>
+  </BugCategory>
+  <BugCategory category="CORRECTNESS">
+    <Description>Correctness</Description>
+  </BugCategory>
+  <BugCategory category="STYLE">
+    <Description>Dodgy code</Description>
+  </BugCategory>
+  <BugPattern type="EI_EXPOSE_REP2" abbrev="EI2" category="MALICIOUS_CODE" cweid="374">
+    <ShortDescription>May expose internal representation by incorporating reference to mutable object</ShortDescription>
+    <Details><![CDATA[
+
+  <p> This code stores a reference to an externally mutable object into the
+  internal representation of the object.&nbsp;
+   If instances
+   are accessed by untrusted code, and unchecked changes to
+   the mutable object would compromise security or other
+   important properties, you will need to do something different.
+  Storing a copy of the object is better approach in many situations.</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugPattern type="QF_QUESTIONABLE_FOR_LOOP" abbrev="QF" category="STYLE">
+    <ShortDescription>Complicated, subtle or wrong increment in for-loop</ShortDescription>
+    <Details><![CDATA[
+
+   <p>Are you sure this for loop is incrementing/decrementing the correct variable?
+   It appears that another variable is being initialized and checked
+   by the for loop.
+</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugPattern type="INT_BAD_COMPARISON_WITH_NONNEGATIVE_VALUE" abbrev="INT" category="CORRECTNESS">
+    <ShortDescription>Bad comparison of nonnegative value with negative constant or zero</ShortDescription>
+    <Details><![CDATA[
+
+<p> This code compares a value that is guaranteed to be non-negative with a negative constant or zero.
+</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugCode abbrev="QF">
+    <Description>Questionable for loops</Description>
+  </BugCode>
+  <BugCode abbrev="INT">
+    <Description>Suspicious integer expression</Description>
+  </BugCode>
+  <BugCode abbrev="EI2">
+    <Description>Storing reference to mutable object</Description>
+  </BugCode>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 7 Aug 2023 18:35:31 -0400" total_classes="56" referenced_classes="127" total_bugs="9" total_size="3522" num_packages="5" java_version="17.0.5" vm_version="17.0.5+1-b653.25" cpu_seconds="8.92" clock_seconds="30.06" peak_mbytes="3678.02" alloc_mbytes="2048.00" gc_seconds="0.07" priority_2="9">
+    <FileStats path="com/carrotsearch/hppc/AbstractKTypeCollection.java" bugCount="0" size="30"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeArrayDeque.java" bugCount="0" size="379"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeArrayList.java" bugCount="0" size="273"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeBufferVisualizer.java" bugCount="0" size="19"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeCollection.java" bugCount="0" size="8"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeContainer.java" bugCount="0" size="9"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeDeque.java" bugCount="0" size="12"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeHashSet.java" bugCount="2" size="360" bugHash="a851073c1dbca7715f4ce1254bc5b7b5"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeIndexedContainer.java" bugCount="0" size="11"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeLookupContainer.java" bugCount="0" size="2"/>
+    <FileStats path="com/carrotsearch/hppc/KTypePgmIndex.java" bugCount="1" size="316" bugHash="3e86d187a0fea5cb1288154b31eaf6f5"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeSet.java" bugCount="0" size="4"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeStack.java" bugCount="0" size="77"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeAssociativeContainer.java" bugCount="0" size="12"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeHashMap.java" bugCount="3" size="587" bugHash="df5dca065db5a959da03798d38af9afc"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeIdentityHashMap.java" bugCount="0" size="39"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeMap.java" bugCount="0" size="26"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeWormMap.java" bugCount="2" size="634" bugHash="441b129b028386d29577a867220f1876"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeWormSet.java" bugCount="1" size="451" bugHash="4a51b12c4667b709df379dfa4f58252b"/>
+    <FileStats path="com/carrotsearch/hppc/SortedIterationKTypeVTypeHashMap.java" bugCount="0" size="246"/>
+    <FileStats path="com/carrotsearch/hppc/comparators/KTypeComparator.java" bugCount="0" size="2"/>
+    <FileStats path="com/carrotsearch/hppc/comparators/KTypeVTypeComparator.java" bugCount="0" size="2"/>
+    <FileStats path="com/carrotsearch/hppc/cursors/KTypeCursor.java" bugCount="0" size="7"/>
+    <FileStats path="com/carrotsearch/hppc/cursors/KTypeVTypeCursor.java" bugCount="0" size="8"/>
+    <FileStats path="com/carrotsearch/hppc/predicates/KTypePredicate.java" bugCount="0" size="2"/>
+    <FileStats path="com/carrotsearch/hppc/predicates/KTypeVTypePredicate.java" bugCount="0" size="2"/>
+    <FileStats path="com/carrotsearch/hppc/procedures/KTypeProcedure.java" bugCount="0" size="2"/>
+    <FileStats path="com/carrotsearch/hppc/procedures/KTypeVTypeProcedure.java" bugCount="0" size="2"/>
+    <PackageStats package="com.carrotsearch.hppc" total_bugs="9" total_types="48" total_size="3495" priority_2="9">
+      <ClassStats class="com.carrotsearch.hppc.AbstractKTypeCollection" sourceFile="AbstractKTypeCollection.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDeque" sourceFile="KTypeArrayDeque.java" interface="false" size="343" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDeque$DescendingValueIterator" sourceFile="KTypeArrayDeque.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDeque$ValueIterator" sourceFile="KTypeArrayDeque.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayList" sourceFile="KTypeArrayList.java" interface="false" size="255" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayList$ValueIterator" sourceFile="KTypeArrayList.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeBufferVisualizer" sourceFile="KTypeBufferVisualizer.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeCollection" sourceFile="KTypeCollection.java" interface="true" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeContainer" sourceFile="KTypeContainer.java" interface="true" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeDeque" sourceFile="KTypeDeque.java" interface="true" size="12" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSet" sourceFile="KTypeHashSet.java" interface="false" size="330" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSet$EntryIterator" sourceFile="KTypeHashSet.java" interface="false" size="30" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeIndexedContainer" sourceFile="KTypeIndexedContainer.java" interface="true" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeLookupContainer" sourceFile="KTypeLookupContainer.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndex" sourceFile="KTypePgmIndex.java" interface="false" size="168" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndex$1" sourceFile="KTypePgmIndex.java" interface="false" size="1" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndex$KTypeBuilder" sourceFile="KTypePgmIndex.java" interface="false" size="105" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndex$KTypeEmptyPgmIndex" sourceFile="KTypePgmIndex.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndex$KTypeEmptyPgmIndex$KTypeEmptyIterator" sourceFile="KTypePgmIndex.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndex$RangeIterator" sourceFile="KTypePgmIndex.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeSet" sourceFile="KTypeSet.java" interface="true" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeStack" sourceFile="KTypeStack.java" interface="false" size="77" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeAssociativeContainer" sourceFile="KTypeVTypeAssociativeContainer.java" interface="true" size="12" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap" sourceFile="KTypeVTypeHashMap.java" interface="false" size="411" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap$1" sourceFile="KTypeVTypeHashMap.java" interface="false" size="1" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap$EntryIterator" sourceFile="KTypeVTypeHashMap.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysContainer" sourceFile="KTypeVTypeHashMap.java" interface="false" size="42" bugs="2" priority_2="2"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap$KeysIterator" sourceFile="KTypeVTypeHashMap.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap$ValuesContainer" sourceFile="KTypeVTypeHashMap.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMap$ValuesIterator" sourceFile="KTypeVTypeHashMap.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeIdentityHashMap" sourceFile="KTypeVTypeIdentityHashMap.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeMap" sourceFile="KTypeVTypeMap.java" interface="true" size="26" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap" sourceFile="KTypeVTypeWormMap.java" interface="false" size="478" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap$1" sourceFile="KTypeVTypeWormMap.java" interface="false" size="1" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap$EntryIterator" sourceFile="KTypeVTypeWormMap.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysContainer" sourceFile="KTypeVTypeWormMap.java" interface="false" size="39" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap$KeysIterator" sourceFile="KTypeVTypeWormMap.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap$ValuesContainer" sourceFile="KTypeVTypeWormMap.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMap$ValuesIterator" sourceFile="KTypeVTypeWormMap.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSet" sourceFile="KTypeWormSet.java" interface="false" size="426" bugs="1" priority_2="1"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSet$EntryIterator" sourceFile="KTypeWormSet.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="117" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap$1" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap$EntryIterator" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap$KeysContainer" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap$KeysIterator" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap$ValuesContainer" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMap$ValuesIterator" sourceFile="SortedIterationKTypeVTypeHashMap.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.carrotsearch.hppc.comparators" total_bugs="0" total_types="2" total_size="4">
+      <ClassStats class="com.carrotsearch.hppc.comparators.KTypeComparator" sourceFile="KTypeComparator.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.comparators.KTypeVTypeComparator" sourceFile="KTypeVTypeComparator.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.carrotsearch.hppc.cursors" total_bugs="0" total_types="2" total_size="15">
+      <ClassStats class="com.carrotsearch.hppc.cursors.KTypeCursor" sourceFile="KTypeCursor.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.cursors.KTypeVTypeCursor" sourceFile="KTypeVTypeCursor.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.carrotsearch.hppc.predicates" total_bugs="0" total_types="2" total_size="4">
+      <ClassStats class="com.carrotsearch.hppc.predicates.KTypePredicate" sourceFile="KTypePredicate.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.predicates.KTypeVTypePredicate" sourceFile="KTypeVTypePredicate.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.carrotsearch.hppc.procedures" total_bugs="0" total_types="2" total_size="4">
+      <ClassStats class="com.carrotsearch.hppc.procedures.KTypeProcedure" sourceFile="KTypeProcedure.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.procedures.KTypeVTypeProcedure" sourceFile="KTypeVTypeProcedure.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.FindBugs2" totalMilliseconds="92" invocations="2" avgMicrosecondsPerInvocation="46427" maxMicrosecondsPerInvocation="80624" standardDeviationMicrosecondsPerInvocation="34197"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="55" invocations="654" avgMicrosecondsPerInvocation="84" maxMicrosecondsPerInvocation="1559" standardDeviationMicrosecondsPerInvocation="160"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="48" invocations="657" avgMicrosecondsPerInvocation="73" maxMicrosecondsPerInvocation="472" standardDeviationMicrosecondsPerInvocation="53"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="41" invocations="722" avgMicrosecondsPerInvocation="56" maxMicrosecondsPerInvocation="633" standardDeviationMicrosecondsPerInvocation="82"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="37" invocations="571" avgMicrosecondsPerInvocation="65" maxMicrosecondsPerInvocation="646" standardDeviationMicrosecondsPerInvocation="92"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="36" invocations="710" avgMicrosecondsPerInvocation="51" maxMicrosecondsPerInvocation="430" standardDeviationMicrosecondsPerInvocation="65"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="35" invocations="607" avgMicrosecondsPerInvocation="58" maxMicrosecondsPerInvocation="580" standardDeviationMicrosecondsPerInvocation="76"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="33" invocations="541" avgMicrosecondsPerInvocation="62" maxMicrosecondsPerInvocation="735" standardDeviationMicrosecondsPerInvocation="86"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="22" invocations="590" avgMicrosecondsPerInvocation="38" maxMicrosecondsPerInvocation="417" standardDeviationMicrosecondsPerInvocation="50"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="20" invocations="514" avgMicrosecondsPerInvocation="40" maxMicrosecondsPerInvocation="11187" standardDeviationMicrosecondsPerInvocation="492"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="17" invocations="127" avgMicrosecondsPerInvocation="135" maxMicrosecondsPerInvocation="1906" standardDeviationMicrosecondsPerInvocation="299"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="16" invocations="607" avgMicrosecondsPerInvocation="27" maxMicrosecondsPerInvocation="215" standardDeviationMicrosecondsPerInvocation="26"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="15" invocations="908" avgMicrosecondsPerInvocation="17" maxMicrosecondsPerInvocation="261" standardDeviationMicrosecondsPerInvocation="24"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SwitchFallthrough" totalMilliseconds="15" invocations="56" avgMicrosecondsPerInvocation="280" maxMicrosecondsPerInvocation="12486" standardDeviationMicrosecondsPerInvocation="1650"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="14" invocations="127" avgMicrosecondsPerInvocation="116" maxMicrosecondsPerInvocation="1421" standardDeviationMicrosecondsPerInvocation="223"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="12" invocations="607" avgMicrosecondsPerInvocation="20" maxMicrosecondsPerInvocation="258" standardDeviationMicrosecondsPerInvocation="28"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
