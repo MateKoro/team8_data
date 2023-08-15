@@ -1,0 +1,277 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta charset="UTF-8"/>
+      <title>SpotBugs Report</title>
+      <style type="text/css">
+		.tablerow0 {
+			background: #EEEEEE;
+		}
+
+		.tablerow1 {
+			background: white;
+		}
+
+		.detailrow0 {
+			background: #EEEEEE;
+		}
+
+		.detailrow1 {
+			background: white;
+		}
+
+		.tableheader {
+			background: #b9b9fe;
+			font-size: larger;
+		}
+		</style>
+   </head>
+   <body>
+      <h1>SpotBugs Report</h1>
+      <p>Produced using <a href="https://spotbugs.github.io">SpotBugs</a>4.4.2.</p>
+      <p>Project: 
+			spring-petclinic[spring-petclinic]</p>
+      <h2>Metrics</h2>
+      <p>426 lines of code analyzed,
+	in 23 classes, 
+	in 5 packages.</p>
+      <table width="500" cellpadding="5" cellspacing="2">
+         <tr class="tableheader">
+            <th align="left">Metric</th>
+            <th align="right">Total</th>
+            <th align="right">Density*</th>
+         </tr>
+         <tr class="tablerow0">
+            <td>High Priority Warnings</td>
+            <td align="right">1</td>
+            <td align="right">2.35</td>
+         </tr>
+         <tr class="tablerow1">
+            <td>Medium Priority Warnings</td>
+            <td align="right">5</td>
+            <td align="right">11.74</td>
+         </tr>
+         <tr class="$totalClass">
+            <td>
+               <b>Total Warnings</b>
+            </td>
+            <td align="right">
+               <b>6</b>
+            </td>
+            <td align="right">
+               <b>14.08</b>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <i>(* Defects per Thousand lines of non-commenting source statements)</i>
+      </p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <h2>Summary</h2>
+      <table width="500" cellpadding="5" cellspacing="2">
+         <tr class="tableheader">
+            <th align="left">Warning Type</th>
+            <th align="right">Number</th>
+         </tr>
+         <tr class="tablerow0">
+            <td>
+               <a href="#Warnings_CORRECTNESS">Correctness Warnings</a>
+            </td>
+            <td align="right">1</td>
+         </tr>
+         <tr class="tablerow1">
+            <td>
+               <a href="#Warnings_MALICIOUS_CODE">Malicious code vulnerability Warnings</a>
+            </td>
+            <td align="right">5</td>
+         </tr>
+         <tr class="tablerow0">
+            <td>
+               <b>Total</b>
+            </td>
+            <td align="right">
+               <b>6</b>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <h1>Warnings</h1>
+      <p>Click on each warning link to see a full description of the issue, and
+	    details of how to resolve it.</p>
+      <h2>
+         <a name="Warnings_CORRECTNESS">Correctness Warnings</a>
+      </h2>
+      <table class="warningtable"
+             width="100%"
+             cellspacing="2"
+             cellpadding="5">
+         <tr class="tableheader">
+            <th align="left">Warning</th>
+            <th align="left">Priority</th>
+            <th align="left">Details</th>
+         </tr>
+         <tr class="tablerow1">
+            <td width="20%" valign="top">
+               <a href="#RC_REF_COMPARISON">Suspicious reference comparison</a>
+            </td>
+            <td width="10%" valign="top">High</td>
+            <td width="70%">
+               <p>Suspicious comparison of Integer references in org.springframework.samples.petclinic.owner.PetController.processUpdateForm(Pet, BindingResult, Owner, ModelMap)<br/>
+                  <br/>
+                  <br/>In file PetController.java PetController.java,
+					
+						line 132 132<br/>In class org.springframework.samples.petclinic.owner.PetController<br/>In method org.springframework.samples.petclinic.owner.PetController.processUpdateForm(Pet, BindingResult, Owner, ModelMap)<br/>Actual type Integer<br/>Return value of org.springframework.samples.petclinic.model.BaseEntity.getId() of type Integer<br/>At PetController.java:[line 132]<br/>At PetController.java:[line 132]</p>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <h2>
+         <a name="Warnings_MALICIOUS_CODE">Malicious code vulnerability Warnings</a>
+      </h2>
+      <table class="warningtable"
+             width="100%"
+             cellspacing="2"
+             cellpadding="5">
+         <tr class="tableheader">
+            <th align="left">Warning</th>
+            <th align="left">Priority</th>
+            <th align="left">Details</th>
+         </tr>
+         <tr class="tablerow1">
+            <td width="20%" valign="top">
+               <a href="#EI_EXPOSE_REP">May expose internal representation by returning reference to mutable object</a>
+            </td>
+            <td width="10%" valign="top">Medium</td>
+            <td width="70%">
+               <p>org.springframework.samples.petclinic.owner.Owner.getPets() may expose internal representation by returning Owner.pets<br/>
+                  <br/>
+                  <br/>In file Owner.java Owner.java,
+					
+						line 92 92<br/>In class org.springframework.samples.petclinic.owner.Owner<br/>In method org.springframework.samples.petclinic.owner.Owner.getPets()<br/>Field org.springframework.samples.petclinic.owner.Owner.pets<br/>At Owner.java:[line 92]<br/>At Owner.java:[line 92]</p>
+            </td>
+         </tr>
+         <tr class="tablerow0">
+            <td width="20%" valign="top">
+               <a href="#EI_EXPOSE_REP">May expose internal representation by returning reference to mutable object</a>
+            </td>
+            <td width="10%" valign="top">Medium</td>
+            <td width="70%">
+               <p>org.springframework.samples.petclinic.owner.Pet.getType() may expose internal representation by returning Pet.type<br/>
+                  <br/>
+                  <br/>In file Pet.java Pet.java,
+					
+						line 69 69<br/>In class org.springframework.samples.petclinic.owner.Pet<br/>In method org.springframework.samples.petclinic.owner.Pet.getType()<br/>Field org.springframework.samples.petclinic.owner.Pet.type<br/>At Pet.java:[line 69]<br/>At Pet.java:[line 69]</p>
+            </td>
+         </tr>
+         <tr class="tablerow1">
+            <td width="20%" valign="top">
+               <a href="#EI_EXPOSE_REP">May expose internal representation by returning reference to mutable object</a>
+            </td>
+            <td width="10%" valign="top">Medium</td>
+            <td width="70%">
+               <p>org.springframework.samples.petclinic.owner.Pet.getVisits() may expose internal representation by returning Pet.visits<br/>
+                  <br/>
+                  <br/>In file Pet.java Pet.java,
+					
+						line 77 77<br/>In class org.springframework.samples.petclinic.owner.Pet<br/>In method org.springframework.samples.petclinic.owner.Pet.getVisits()<br/>Field org.springframework.samples.petclinic.owner.Pet.visits<br/>At Pet.java:[line 77]<br/>At Pet.java:[line 77]</p>
+            </td>
+         </tr>
+         <tr class="tablerow0">
+            <td width="20%" valign="top">
+               <a href="#EI_EXPOSE_REP">May expose internal representation by returning reference to mutable object</a>
+            </td>
+            <td width="10%" valign="top">Medium</td>
+            <td width="70%">
+               <p>org.springframework.samples.petclinic.vet.Vets.getVetList() may expose internal representation by returning Vets.vets<br/>
+                  <br/>
+                  <br/>In file Vets.java Vets.java,
+					
+						line 40 40<br/>In class org.springframework.samples.petclinic.vet.Vets<br/>In method org.springframework.samples.petclinic.vet.Vets.getVetList()<br/>Field org.springframework.samples.petclinic.vet.Vets.vets<br/>At Vets.java:[line 40]<br/>At Vets.java:[line 40]</p>
+            </td>
+         </tr>
+         <tr class="tablerow1">
+            <td width="20%" valign="top">
+               <a href="#EI_EXPOSE_REP2">May expose internal representation by incorporating reference to mutable object</a>
+            </td>
+            <td width="10%" valign="top">Medium</td>
+            <td width="70%">
+               <p>org.springframework.samples.petclinic.owner.Pet.setType(PetType) may expose internal representation by storing an externally mutable object into Pet.type<br/>
+                  <br/>
+                  <br/>In file Pet.java Pet.java,
+					
+						line 73 73<br/>In class org.springframework.samples.petclinic.owner.Pet<br/>In method org.springframework.samples.petclinic.owner.Pet.setType(PetType)<br/>Field org.springframework.samples.petclinic.owner.Pet.type<br/>Local variable named type<br/>At Pet.java:[line 73]<br/>At Pet.java:[line 73]</p>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <h1>
+         <a name="Details">Warning Types</a>
+      </h1>
+      <h2>
+         <a name="EI_EXPOSE_REP">May expose internal representation by returning reference to mutable object</a>
+      </h2>
+
+  <p> Returning a reference to a mutable object value stored in one of the object's fields
+  exposes the internal representation of the object.&nbsp;
+   If instances
+   are accessed by untrusted code, and unchecked changes to
+   the mutable object would compromise security or other
+   important properties, you will need to do something different.
+  Returning a new copy of the object is better approach in many situations.</p>
+
+    <p>
+         <br/>
+         <br/>
+      </p>
+      <h2>
+         <a name="EI_EXPOSE_REP2">May expose internal representation by incorporating reference to mutable object</a>
+      </h2>
+
+  <p> This code stores a reference to an externally mutable object into the
+  internal representation of the object.&nbsp;
+   If instances
+   are accessed by untrusted code, and unchecked changes to
+   the mutable object would compromise security or other
+   important properties, you will need to do something different.
+  Storing a copy of the object is better approach in many situations.</p>
+
+    <p>
+         <br/>
+         <br/>
+      </p>
+      <h2>
+         <a name="RC_REF_COMPARISON">Suspicious reference comparison</a>
+      </h2>
+
+<p> This method compares two reference values using the == or != operator,
+where the correct way to compare instances of this type is generally
+with the equals() method.
+It is possible to create distinct instances that are equal but do not compare as == since
+they are different objects.
+Examples of classes which should generally
+not be compared by reference are java.lang.Integer, java.lang.Float, etc.</p>
+
+    <p>
+         <br/>
+         <br/>
+      </p>
+   </body>
+</html>

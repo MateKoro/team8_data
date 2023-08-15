@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.4.2" sequence="0" timestamp="1691444947388" analysisTimestamp="1691444946429" release="">
+  <Project projectName="30-seconds-of-java[little-java-functions]">
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\30-seconds-of-java\target\classes\snippets\Snippets.class</Jar>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/30-seconds-of-java/target/classes</AuxClasspathEntry>
+    <SrcDir>C:/Users/k899e/OneDrive/Documents/4313/project/30-seconds-of-java/src/main/java</SrcDir>
+  </Project>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" instanceHash="e836b717d3181e8f69e84936cdf37b17" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Reliance on default encoding</ShortMessage>
+    <LongMessage>Found reliance on default encoding in snippets.Snippets.byteSize(String): String.getBytes()</LongMessage>
+    <Class classname="snippets.Snippets" primary="true">
+      <SourceLine classname="snippets.Snippets" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+        <Message>In Snippets.java</Message>
+      </SourceLine>
+      <Message>In class snippets.Snippets</Message>
+    </Class>
+    <Method classname="snippets.Snippets" name="byteSize" signature="(Ljava/lang/String;)I" isStatic="true" primary="true">
+      <SourceLine classname="snippets.Snippets" start="519" end="519" startBytecode="0" endBytecode="47" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java"/>
+      <Message>In method snippets.Snippets.byteSize(String)</Message>
+    </Method>
+    <Method classname="java.lang.String" name="getBytes" signature="()[B" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="1803" end="1803" startBytecode="0" endBytecode="56" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+      <Message>Called method String.getBytes()</Message>
+    </Method>
+    <SourceLine classname="snippets.Snippets" primary="true" start="519" end="519" startBytecode="1" endBytecode="1" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+      <Message>At Snippets.java:[line 519]</Message>
+    </SourceLine>
+    <SourceLine classname="snippets.Snippets" primary="true" start="519" end="519" startBytecode="1" endBytecode="1" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+      <Message>At Snippets.java:[line 519]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" instanceHash="fd0bf64df9341e5ed6b883f25a35e6ce" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Reliance on default encoding</ShortMessage>
+    <LongMessage>Found reliance on default encoding in snippets.Snippets.readFileAsString(Path): new String(byte[])</LongMessage>
+    <Class classname="snippets.Snippets" primary="true">
+      <SourceLine classname="snippets.Snippets" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+        <Message>In Snippets.java</Message>
+      </SourceLine>
+      <Message>In class snippets.Snippets</Message>
+    </Class>
+    <Method classname="snippets.Snippets" name="readFileAsString" signature="(Ljava/nio/file/Path;)Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="snippets.Snippets" start="664" end="664" startBytecode="0" endBytecode="63" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java"/>
+      <Message>In method snippets.Snippets.readFileAsString(Path)</Message>
+    </Method>
+    <Method classname="java.lang.String" name="&lt;init&gt;" signature="([B)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="1435" end="1436" startBytecode="0" endBytecode="64" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+      <Message>Called method new String(byte[])</Message>
+    </Method>
+    <SourceLine classname="snippets.Snippets" primary="true" start="664" end="664" startBytecode="8" endBytecode="8" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+      <Message>At Snippets.java:[line 664]</Message>
+    </SourceLine>
+    <SourceLine classname="snippets.Snippets" primary="true" start="664" end="664" startBytecode="8" endBytecode="8" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+      <Message>At Snippets.java:[line 664]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="RE_POSSIBLE_UNINTENDED_PATTERN" priority="2" rank="4" abbrev="RE" category="CORRECTNESS" instanceHash="4ad0ea4d0fec29227d0f79004852d27b" instanceOccurrenceNum="0" instanceOccurrenceMax="1" cweid="185">
+    <ShortMessage>&quot;.&quot; or &quot;|&quot; used for regular expression</ShortMessage>
+    <LongMessage>&quot;.&quot; or &quot;|&quot; used for regular expression in snippets.Snippets.mask(String, int, String)</LongMessage>
+    <Class classname="snippets.Snippets" primary="true">
+      <SourceLine classname="snippets.Snippets" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+        <Message>In Snippets.java</Message>
+      </SourceLine>
+      <Message>In class snippets.Snippets</Message>
+    </Class>
+    <Method classname="snippets.Snippets" name="mask" signature="(Ljava/lang/String;ILjava/lang/String;)Ljava/lang/String;" isStatic="true" primary="true">
+      <SourceLine classname="snippets.Snippets" start="562" end="563" startBytecode="0" endBytecode="211" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java"/>
+      <Message>In method snippets.Snippets.mask(String, int, String)</Message>
+    </Method>
+    <Method classname="java.lang.String" name="replaceAll" signature="(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="2942" end="2942" startBytecode="0" endBytecode="74" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+      <Message>Called method String.replaceAll(String, String)</Message>
+    </Method>
+    <SourceLine classname="snippets.Snippets" primary="true" start="565" end="565" startBytecode="28" endBytecode="28" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+      <Message>At Snippets.java:[line 565]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="RE_POSSIBLE_UNINTENDED_PATTERN" priority="2" rank="4" abbrev="RE" category="CORRECTNESS" instanceHash="4ad0ea4d0fec29227d0f79004852d27b" instanceOccurrenceNum="1" instanceOccurrenceMax="1" cweid="185">
+    <ShortMessage>&quot;.&quot; or &quot;|&quot; used for regular expression</ShortMessage>
+    <LongMessage>&quot;.&quot; or &quot;|&quot; used for regular expression in snippets.Snippets.mask(String, int, String)</LongMessage>
+    <Class classname="snippets.Snippets" primary="true">
+      <SourceLine classname="snippets.Snippets" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+        <Message>In Snippets.java</Message>
+      </SourceLine>
+      <Message>In class snippets.Snippets</Message>
+    </Class>
+    <Method classname="snippets.Snippets" name="mask" signature="(Ljava/lang/String;ILjava/lang/String;)Ljava/lang/String;" isStatic="true" primary="true">
+      <SourceLine classname="snippets.Snippets" start="562" end="563" startBytecode="0" endBytecode="211" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java"/>
+      <Message>In method snippets.Snippets.mask(String, int, String)</Message>
+    </Method>
+    <Method classname="java.lang.String" name="replaceAll" signature="(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="2942" end="2942" startBytecode="0" endBytecode="74" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+      <Message>Called method String.replaceAll(String, String)</Message>
+    </Method>
+    <SourceLine classname="snippets.Snippets" primary="true" start="569" end="569" startBytecode="82" endBytecode="82" sourcefile="Snippets.java" sourcepath="snippets/Snippets.java" relSourcepath="snippets\Snippets.java">
+      <Message>At Snippets.java:[line 569]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugCategory category="CORRECTNESS">
+    <Description>Correctness</Description>
+  </BugCategory>
+  <BugCategory category="I18N">
+    <Description>Internationalization</Description>
+  </BugCategory>
+  <BugPattern type="RE_POSSIBLE_UNINTENDED_PATTERN" abbrev="RE" category="CORRECTNESS">
+    <ShortDescription>&quot;.&quot; or &quot;|&quot; used for regular expression</ShortDescription>
+    <Details><![CDATA[
+
+<p>
+A String function is being invoked and "." or "|" is being passed
+to a parameter that takes a regular expression as an argument. Is this what you intended?
+For example
+</p>
+<ul>
+<li>s.replaceAll(".", "/") will return a String in which <em>every</em> character has been replaced by a '/' character</li>
+<li>s.split(".") <em>always</em> returns a zero length array of String</li>
+<li>"ab|cd".replaceAll("|", "/") will return "/a/b/|/c/d/"</li>
+<li>"ab|cd".split("|") will return array with six (!) elements: [, a, b, |, c, d]</li>
+</ul>
+
+    ]]></Details>
+  </BugPattern>
+  <BugPattern type="DM_DEFAULT_ENCODING" abbrev="Dm" category="I18N">
+    <ShortDescription>Reliance on default encoding</ShortDescription>
+    <Details><![CDATA[
+
+<p> Found a call to a method which will perform a byte to String (or String to byte) conversion, and will assume that the default platform encoding is suitable. This will cause the application behaviour to vary between platforms. Use an alternative API and specify a charset name or Charset object explicitly.  </p>
+
+      ]]></Details>
+  </BugPattern>
+  <BugCode abbrev="RE" cweid="185">
+    <Description>Regular expressions</Description>
+  </BugCode>
+  <BugCode abbrev="Dm">
+    <Description>Dubious method used</Description>
+  </BugCode>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 7 Aug 2023 17:49:04 -0400" total_classes="1" referenced_classes="74" total_bugs="4" total_size="415" num_packages="1" java_version="17.0.5" vm_version="17.0.5+1-b653.25" cpu_seconds="9.67" clock_seconds="80.07" peak_mbytes="2161.97" alloc_mbytes="2048.00" gc_seconds="0.06" priority_2="2" priority_1="2">
+    <FileStats path="snippets/Snippets.java" bugCount="4" size="415" bugHash="8d783be53c74728556a6c7c16ff200bc"/>
+    <PackageStats package="snippets" total_bugs="4" total_types="1" total_size="415" priority_2="2" priority_1="2">
+      <ClassStats class="snippets.Snippets" sourceFile="Snippets.java" interface="false" size="415" bugs="4" priority_2="2" priority_1="2"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.FindBugs2" totalMilliseconds="212" invocations="2" avgMicrosecondsPerInvocation="106493" maxMicrosecondsPerInvocation="127502" standardDeviationMicrosecondsPerInvocation="21009"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="176" invocations="858" avgMicrosecondsPerInvocation="206" maxMicrosecondsPerInvocation="14745" standardDeviationMicrosecondsPerInvocation="801"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="64" invocations="860" avgMicrosecondsPerInvocation="75" maxMicrosecondsPerInvocation="1534" standardDeviationMicrosecondsPerInvocation="83"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="46" invocations="74" avgMicrosecondsPerInvocation="629" maxMicrosecondsPerInvocation="5065" standardDeviationMicrosecondsPerInvocation="992"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="30" invocations="138" avgMicrosecondsPerInvocation="223" maxMicrosecondsPerInvocation="13719" standardDeviationMicrosecondsPerInvocation="1161"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="28" invocations="74" avgMicrosecondsPerInvocation="380" maxMicrosecondsPerInvocation="2550" standardDeviationMicrosecondsPerInvocation="512"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="27" invocations="457" avgMicrosecondsPerInvocation="59" maxMicrosecondsPerInvocation="1503" standardDeviationMicrosecondsPerInvocation="102"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="19" invocations="138" avgMicrosecondsPerInvocation="142" maxMicrosecondsPerInvocation="2610" standardDeviationMicrosecondsPerInvocation="247"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="19" invocations="113" avgMicrosecondsPerInvocation="173" maxMicrosecondsPerInvocation="6201" standardDeviationMicrosecondsPerInvocation="597"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="18" invocations="138" avgMicrosecondsPerInvocation="136" maxMicrosecondsPerInvocation="13771" standardDeviationMicrosecondsPerInvocation="1166"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="16" invocations="74" avgMicrosecondsPerInvocation="220" maxMicrosecondsPerInvocation="4992" standardDeviationMicrosecondsPerInvocation="604"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="15" invocations="74" avgMicrosecondsPerInvocation="215" maxMicrosecondsPerInvocation="2724" standardDeviationMicrosecondsPerInvocation="386"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="14" invocations="138" avgMicrosecondsPerInvocation="106" maxMicrosecondsPerInvocation="4451" standardDeviationMicrosecondsPerInvocation="373"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="14" invocations="138" avgMicrosecondsPerInvocation="104" maxMicrosecondsPerInvocation="4252" standardDeviationMicrosecondsPerInvocation="365"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="13" invocations="138" avgMicrosecondsPerInvocation="97" maxMicrosecondsPerInvocation="2023" standardDeviationMicrosecondsPerInvocation="189"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

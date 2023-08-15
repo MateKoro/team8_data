@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="4.4.2" sequence="0" timestamp="1691447749700" analysisTimestamp="1691447748778" release="">
+  <Project projectName="hppc-root[hppc-root.hppc.testTemplates]">
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\AbstractKTypeTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\AbstractKTypeVTypeTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayDequeTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayDequeTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayDequeTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayDequeTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayDequeTest$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayDequeTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$1A.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$1B.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest$5.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeArrayListTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$5.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest$6.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeHashSetTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypePgmIndexTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypePgmIndexTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeStackTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeStackTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$10.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$11.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$5.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$6.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$7.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$8.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest$9.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeHashMapTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeIdentityHashMapTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeIdentityHashMapTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeIdentityHashMapTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeIdentityHashMapTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$10.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$11.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$12.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$13.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$14.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$5.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$6.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$7.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$8.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$9.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$Operation$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$Operation$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$Operation$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$Operation$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$Operation$Application.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest$Operation.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeVTypeWormMapTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest$1.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest$1Sub.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest$2.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest$3.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest$4.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest$5.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\KTypeWormSetTest.class</Jar>
+    <Jar>C:\Users\k899e\OneDrive\Documents\4313\project\hppc\hppc\build\classes\java\testTemplates\com\carrotsearch\hppc\SortedIterationKTypeVTypeHashMapTest.class</Jar>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc-template-intrinsics/build/classes/java/main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/build/classes/java/main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/build/classes/java/templates</AuxClasspathEntry>
+    <AuxClasspathEntry>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/build/classes/java/testTemplates</AuxClasspathEntry>
+    <SrcDir>C:/Users/k899e/OneDrive/Documents/4313/project/hppc/hppc/src/test/templates</SrcDir>
+  </Project>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" instanceHash="fc9eb4c10b70cbec6f966ca807a11e94" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unread public/protected field</ShortMessage>
+    <LongMessage>Unread public/protected field: com.carrotsearch.hppc.AbstractKTypeTest.k6</LongMessage>
+    <Class classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.AbstractKTypeTest</Message>
+    </Class>
+    <Field classname="com.carrotsearch.hppc.AbstractKTypeTest" name="k6" signature="Ljava/lang/Object;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.AbstractKTypeTest.k6</Message>
+    </Field>
+    <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true" start="33" end="33" startBytecode="160" endBytecode="160" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+      <Message>At AbstractKTypeTest.java:[line 33]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" instanceHash="6ce04d0661232fd3eca6af18c0beaa12" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unread public/protected field</ShortMessage>
+    <LongMessage>Unread public/protected field: com.carrotsearch.hppc.AbstractKTypeTest.k7</LongMessage>
+    <Class classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.AbstractKTypeTest</Message>
+    </Class>
+    <Field classname="com.carrotsearch.hppc.AbstractKTypeTest" name="k7" signature="Ljava/lang/Object;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.AbstractKTypeTest.k7</Message>
+    </Field>
+    <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true" start="34" end="34" startBytecode="181" endBytecode="181" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+      <Message>At AbstractKTypeTest.java:[line 34]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" instanceHash="f344a834a2679be98a5fb07c93d9c878" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unread public/protected field</ShortMessage>
+    <LongMessage>Unread public/protected field: com.carrotsearch.hppc.AbstractKTypeTest.k8</LongMessage>
+    <Class classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.AbstractKTypeTest</Message>
+    </Class>
+    <Field classname="com.carrotsearch.hppc.AbstractKTypeTest" name="k8" signature="Ljava/lang/Object;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.AbstractKTypeTest.k8</Message>
+    </Field>
+    <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true" start="35" end="35" startBytecode="202" endBytecode="202" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+      <Message>At AbstractKTypeTest.java:[line 35]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" instanceHash="bd12d098abb189911fe719b86f643472" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unread public/protected field</ShortMessage>
+    <LongMessage>Unread public/protected field: com.carrotsearch.hppc.AbstractKTypeTest.k9</LongMessage>
+    <Class classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.AbstractKTypeTest</Message>
+    </Class>
+    <Field classname="com.carrotsearch.hppc.AbstractKTypeTest" name="k9" signature="Ljava/lang/Object;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.AbstractKTypeTest.k9</Message>
+    </Field>
+    <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true" start="36" end="36" startBytecode="223" endBytecode="223" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+      <Message>At AbstractKTypeTest.java:[line 36]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" priority="2" rank="18" abbrev="UrF" category="STYLE" instanceHash="c6c2990f45cc47ce055bb3a7de3f75d2" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Unread public/protected field</ShortMessage>
+    <LongMessage>Unread public/protected field: com.carrotsearch.hppc.AbstractKTypeTest.requireAssertions</LongMessage>
+    <Class classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>In class com.carrotsearch.hppc.AbstractKTypeTest</Message>
+    </Class>
+    <Field classname="com.carrotsearch.hppc.AbstractKTypeTest" name="requireAssertions" signature="Lorg/junit/rules/MethodRule;" isStatic="false" primary="true">
+      <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+        <Message>In AbstractKTypeTest.java</Message>
+      </SourceLine>
+      <Message>Field com.carrotsearch.hppc.AbstractKTypeTest.requireAssertions</Message>
+    </Field>
+    <SourceLine classname="com.carrotsearch.hppc.AbstractKTypeTest" primary="true" start="21" end="21" startBytecode="12" endBytecode="12" sourcefile="AbstractKTypeTest.java" sourcepath="com/carrotsearch/hppc/AbstractKTypeTest.java" relSourcepath="com\carrotsearch\hppc\AbstractKTypeTest.java">
+      <Message>At AbstractKTypeTest.java:[line 21]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugCategory category="STYLE">
+    <Description>Dodgy code</Description>
+  </BugCategory>
+  <BugPattern type="URF_UNREAD_PUBLIC_OR_PROTECTED_FIELD" abbrev="UrF" category="STYLE">
+    <ShortDescription>Unread public/protected field</ShortDescription>
+    <Details><![CDATA[
+
+  <p> This field is never read.&nbsp;
+The field is public or protected, so perhaps
+    it is intended to be used with classes not seen as part of the analysis. If not,
+consider removing it from the class.</p>
+
+    ]]></Details>
+  </BugPattern>
+  <BugCode abbrev="UrF">
+    <Description>Unread field</Description>
+  </BugCode>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Mon, 7 Aug 2023 18:35:32 -0400" total_classes="76" referenced_classes="203" total_bugs="5" total_size="3410" num_packages="1" java_version="17.0.5" vm_version="17.0.5+1-b653.25" cpu_seconds="7.05" clock_seconds="28.65" peak_mbytes="3678.02" alloc_mbytes="2048.00" gc_seconds="0.04" priority_2="5">
+    <FileStats path="com/carrotsearch/hppc/AbstractKTypeTest.java" bugCount="5" size="65" bugHash="1ff091cf73c01dd3744c4e377ea8af45"/>
+    <FileStats path="com/carrotsearch/hppc/AbstractKTypeVTypeTest.java" bugCount="0" size="18"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeArrayDequeTest.java" bugCount="0" size="425"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeArrayListTest.java" bugCount="0" size="372"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeHashSetTest.java" bugCount="0" size="338"/>
+    <FileStats path="com/carrotsearch/hppc/KTypePgmIndexTest.java" bugCount="0" size="138"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeStackTest.java" bugCount="0" size="132"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeHashMapTest.java" bugCount="0" size="569"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeIdentityHashMapTest.java" bugCount="0" size="213"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeVTypeWormMapTest.java" bugCount="0" size="685"/>
+    <FileStats path="com/carrotsearch/hppc/KTypeWormSetTest.java" bugCount="0" size="300"/>
+    <FileStats path="com/carrotsearch/hppc/SortedIterationKTypeVTypeHashMapTest.java" bugCount="0" size="155"/>
+    <PackageStats package="com.carrotsearch.hppc" total_bugs="5" total_types="76" total_size="3410" priority_2="5">
+      <ClassStats class="com.carrotsearch.hppc.AbstractKTypeTest" sourceFile="AbstractKTypeTest.java" interface="false" size="65" bugs="5" priority_2="5"/>
+      <ClassStats class="com.carrotsearch.hppc.AbstractKTypeVTypeTest" sourceFile="AbstractKTypeVTypeTest.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDequeTest" sourceFile="KTypeArrayDequeTest.java" interface="false" size="385" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDequeTest$1" sourceFile="KTypeArrayDequeTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDequeTest$1Sub" sourceFile="KTypeArrayDequeTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDequeTest$2" sourceFile="KTypeArrayDequeTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDequeTest$3" sourceFile="KTypeArrayDequeTest.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayDequeTest$4" sourceFile="KTypeArrayDequeTest.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest" sourceFile="KTypeArrayListTest.java" interface="false" size="320" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$1" sourceFile="KTypeArrayListTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$1A" sourceFile="KTypeArrayListTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$1B" sourceFile="KTypeArrayListTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$1Sub" sourceFile="KTypeArrayListTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$2" sourceFile="KTypeArrayListTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$3" sourceFile="KTypeArrayListTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$4" sourceFile="KTypeArrayListTest.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeArrayListTest$5" sourceFile="KTypeArrayListTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest" sourceFile="KTypeHashSetTest.java" interface="false" size="286" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$1" sourceFile="KTypeHashSetTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$1Sub" sourceFile="KTypeHashSetTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$2" sourceFile="KTypeHashSetTest.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$3" sourceFile="KTypeHashSetTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$4" sourceFile="KTypeHashSetTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$5" sourceFile="KTypeHashSetTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeHashSetTest$6" sourceFile="KTypeHashSetTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndexTest" sourceFile="KTypePgmIndexTest.java" interface="false" size="130" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypePgmIndexTest$1" sourceFile="KTypePgmIndexTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeStackTest" sourceFile="KTypeStackTest.java" interface="false" size="128" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeStackTest$1Sub" sourceFile="KTypeStackTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="478" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$1" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$10" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$11" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$1Sub" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$2" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$3" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$4" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$5" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$6" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$7" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$8" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeHashMapTest$9" sourceFile="KTypeVTypeHashMapTest.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeIdentityHashMapTest" sourceFile="KTypeVTypeIdentityHashMapTest.java" interface="false" size="192" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeIdentityHashMapTest$1" sourceFile="KTypeVTypeIdentityHashMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeIdentityHashMapTest$2" sourceFile="KTypeVTypeIdentityHashMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeIdentityHashMapTest$3" sourceFile="KTypeVTypeIdentityHashMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="504" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$1" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$10" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$11" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$12" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$13" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$14" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$1Sub" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$2" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$3" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$4" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$5" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$6" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$7" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$8" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$9" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$Operation" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$Operation$1" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$Operation$2" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$Operation$3" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$Operation$4" sourceFile="KTypeVTypeWormMapTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeVTypeWormMapTest$Operation$Application" sourceFile="KTypeVTypeWormMapTest.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest" sourceFile="KTypeWormSetTest.java" interface="false" size="259" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest$1" sourceFile="KTypeWormSetTest.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest$1Sub" sourceFile="KTypeWormSetTest.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest$2" sourceFile="KTypeWormSetTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest$3" sourceFile="KTypeWormSetTest.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest$4" sourceFile="KTypeWormSetTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.KTypeWormSetTest$5" sourceFile="KTypeWormSetTest.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="com.carrotsearch.hppc.SortedIterationKTypeVTypeHashMapTest" sourceFile="SortedIterationKTypeVTypeHashMapTest.java" interface="false" size="155" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.FindBugs2" totalMilliseconds="118" invocations="2" avgMicrosecondsPerInvocation="59038" maxMicrosecondsPerInvocation="94015" standardDeviationMicrosecondsPerInvocation="34977"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="63" invocations="818" avgMicrosecondsPerInvocation="77" maxMicrosecondsPerInvocation="381" standardDeviationMicrosecondsPerInvocation="50"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="60" invocations="813" avgMicrosecondsPerInvocation="74" maxMicrosecondsPerInvocation="1402" standardDeviationMicrosecondsPerInvocation="147"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="53" invocations="459" avgMicrosecondsPerInvocation="117" maxMicrosecondsPerInvocation="20161" standardDeviationMicrosecondsPerInvocation="941"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="42" invocations="457" avgMicrosecondsPerInvocation="93" maxMicrosecondsPerInvocation="962" standardDeviationMicrosecondsPerInvocation="107"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="40" invocations="459" avgMicrosecondsPerInvocation="89" maxMicrosecondsPerInvocation="653" standardDeviationMicrosecondsPerInvocation="103"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="33" invocations="464" avgMicrosecondsPerInvocation="72" maxMicrosecondsPerInvocation="533" standardDeviationMicrosecondsPerInvocation="88"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="33" invocations="473" avgMicrosecondsPerInvocation="70" maxMicrosecondsPerInvocation="572" standardDeviationMicrosecondsPerInvocation="95"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="29" invocations="448" avgMicrosecondsPerInvocation="66" maxMicrosecondsPerInvocation="525" standardDeviationMicrosecondsPerInvocation="81"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="22" invocations="203" avgMicrosecondsPerInvocation="111" maxMicrosecondsPerInvocation="1697" standardDeviationMicrosecondsPerInvocation="233"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="22" invocations="862" avgMicrosecondsPerInvocation="26" maxMicrosecondsPerInvocation="310" standardDeviationMicrosecondsPerInvocation="29"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="21" invocations="459" avgMicrosecondsPerInvocation="46" maxMicrosecondsPerInvocation="267" standardDeviationMicrosecondsPerInvocation="41"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="20" invocations="203" avgMicrosecondsPerInvocation="98" maxMicrosecondsPerInvocation="1437" standardDeviationMicrosecondsPerInvocation="199"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="11" invocations="76" avgMicrosecondsPerInvocation="150" maxMicrosecondsPerInvocation="2765" standardDeviationMicrosecondsPerInvocation="461"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="11" invocations="76" avgMicrosecondsPerInvocation="147" maxMicrosecondsPerInvocation="2235" standardDeviationMicrosecondsPerInvocation="406"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
